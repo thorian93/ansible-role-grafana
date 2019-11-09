@@ -1,7 +1,0 @@
----
-
-file:
-  /etc/grafana/grafana.ini:
-    exists: true
-    contains:
-      - http_port = 3002
